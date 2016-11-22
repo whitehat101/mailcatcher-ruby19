@@ -14,7 +14,7 @@ This project doesn't actually conatin any code. Go look at https://github.com/sj
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jebler/mailcatcher-ruby19.
+Bug reports and pull requests are welcome on GitHub at https://github.com/whitehat101/mailcatcher-ruby19.
 
 
 ## License
